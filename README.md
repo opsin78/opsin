@@ -1,1 +1,1 @@
-# opsin
+# weku-newbies-upvote-bot
